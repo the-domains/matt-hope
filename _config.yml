@@ -1,0 +1,28 @@
+name: Matt Hope
+favicon: null
+layout_spectrum: 0.3553910886403173
+typography_spectrum: 0.8225718948524445
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9353214974980801
+  lightness: 0.29503390891477466
+  saturation: 0.3199911694973707
+  rhythmicContrast: 0.01845593098551035
+purpose: []
